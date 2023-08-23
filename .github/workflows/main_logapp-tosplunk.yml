@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Logapp-tosplunk'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6FD59AD3F78B4B5BA999723C35E13303 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3782144BB3D1492982402EB6FA0EAF16 }}
           package: .
